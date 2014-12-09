@@ -1,0 +1,6 @@
+<html>
+<head>
+       <title>My game</title>
+</head>
+<body>
+       <p>Here is the link to my game</p>
